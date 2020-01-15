@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - DeadLine
+  - Cherry
+  - Gem
+  - Money/RMB
+  - Money/USD
+  - Wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3618037389
+    locked: 0
+  - name: Environment
+    uniqueID: 4013141917
+    locked: 0
+  - name: Player
+    uniqueID: 2462781365
+    locked: 0
+  - name: Ground
+    uniqueID: 3016427017
+    locked: 0
+  - name: Frontground
+    uniqueID: 2041733605
+    locked: 0
